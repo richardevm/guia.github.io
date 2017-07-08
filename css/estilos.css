@@ -1,0 +1,34 @@
+
+* {
+	/*margin: 0;*/
+
+}
+
+#global {
+
+width: 100%;
+background-color: rgba(200,150,200,0.5);
+padding: 0;
+
+}
+
+#contactos {
+	background-color: rgba(100,200,255,1);
+	height: 50px;
+	width: 100%;
+}
+
+
+#barraLateral{
+	border: ;
+	width: 20%;
+	float: left;
+
+}
+
+#contenido{
+	border: 1;
+	width: 80%;
+	float: left;
+
+}
